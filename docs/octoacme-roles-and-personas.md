@@ -79,3 +79,19 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+
+## Risk Manager
+- Oversees identification, assessment, and mitigation of project risks.
+- Coordinates with Project Manager and stakeholders.
+
+## Communications Lead
+- Manages project communications internally/externally.
+- Facilitates feedback loops.
+
+## Stakeholder Liaison
+- Primary contact for stakeholder groups.
+- Gathers requirements and feedback.
+
+## QA Lead
+- Defines and enforces quality standards.
+- Conducts milestone testing and reporting.
